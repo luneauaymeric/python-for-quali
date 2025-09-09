@@ -3,8 +3,7 @@
 # This init script clones a Git repository that contains a Jupyter notebook
 # named `tutorial.ipynb` and opens it in Jupyter Lab at startup
 # Expected parameters : None
-sudo apt update
-sudo apt install ffmpeg libavcodec-extra
+
 
 # Clone repository and give permissions to the onyxia user
 GIT_REPO=python-for-quali
