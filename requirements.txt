@@ -1,2 +1,4 @@
 pandas
 openai-whisper
+pydub
+audioop-lts

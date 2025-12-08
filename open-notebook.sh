@@ -10,6 +10,10 @@ GIT_REPO=python-for-quali
 git clone --depth 1 https://github.com/luneauaymeric/${GIT_REPO}.git
 chown -R onyxia:users ${GIT_REPO}/
 
+sudo apt update -y
+sudo apt install ffmpeg -y
+sudo apt install libavcodec-extra -y
+
 # Install additional packages if a requirements.txt file is present in the project
 REQUIREMENTS_FILE=${GIT_REPO}/requirements.txt
 [ -f $REQUIREMENTS_FILE ] && pip install -r $REQUIREMENTS_FILE
