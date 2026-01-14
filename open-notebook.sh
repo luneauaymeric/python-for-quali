@@ -18,5 +18,7 @@ sudo apt install libavcodec-extra -y
 REQUIREMENTS_FILE=${GIT_REPO}/requirements.txt
 [ -f $REQUIREMENTS_FILE ] && pip install -r $REQUIREMENTS_FILE
 
+
+
 # Open the relevant notebook when starting Jupyter Lab
 # echo "c.LabApp.default_url = '/lab/tree/${GIT_REPO}/bertopic_tutorial_git.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py

@@ -2,3 +2,5 @@ pandas
 openai-whisper
 pydub
 audioop-lts
+jupyterlab_widgets
+ipywidgets
