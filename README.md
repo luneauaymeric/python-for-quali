@@ -26,3 +26,6 @@ Il n'y a pas d'autre prérequis pour suivre l'atelier.
 L'intérêt du SSP Cloud est d'avoir un environnement de travail préfiguré ne nécessitant l'installation d'aucun logiciel sur son ordinateur personnel. Pour cela, il suffit de cliquer sur le lien ci-dessous (ou le copier et le coller dans un navigateur).
 
 [https://datalab.sspcloud.fr/launcher/ide/jupyter-python?name=python-for-quali&version=2.3.28&s3=region-79669f20&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2Fluneauaymeric%2Fpython-for-quali%2Frefs%2Fheads%2Fmain%2Fopen-notebook.sh»&git.repository=«https%3A%2F%2Fgithub.com%2Fluneauaymeric%2Fpython-for-quali%2Ftree%2Fmain»&git.branch=«main»&autoLaunch=true](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?name=python-for-quali&version=2.3.28&s3=region-79669f20&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2Fluneauaymeric%2Fpython-for-quali%2Frefs%2Fheads%2Fmain%2Fopen-notebook.sh»&git.repository=«https%3A%2F%2Fgithub.com%2Fluneauaymeric%2Fpython-for-quali%2Ftree%2Fmain»&git.branch=«main»&autoLaunch=true)
+
+
+
