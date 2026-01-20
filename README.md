@@ -17,7 +17,7 @@ Elle est couplée avec l'usage du SSP Cloud Datalab de l'Insee : [https://datala
 Les participants sont donc invités :
 
 1. à créer un compte sur SSP Cloud Datalab avec leur adresse univ-paris8.fr (ou un autre domaine autorisé);
-2. à vérifier qu'ils disposent d'un accès aux services Huma-Num en suivant le lien ci-après et à en créer un si ce n'est pas le cas : [https://humanid.huma-num.fr/](https://humanid.huma-num.fr/)
+2. à vérifier qu'ils disposent d'un accès aux services Huma-Num en suivant le lien ci-après : [https://humanid.huma-num.fr/](https://humanid.huma-num.fr/)
 
 Il n'y a pas d'autre prérequis pour suivre l'atelier.
 
